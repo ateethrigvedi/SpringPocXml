@@ -16,7 +16,7 @@
   </servlet-mapping>
     <welcome-file-list>
 	<welcome-file>
-		/WEB-INF/views/welcome.jsp
+		/WEB-INF/views/Login.jsp
 	</welcome-file>
   </welcome-file-list>
   
